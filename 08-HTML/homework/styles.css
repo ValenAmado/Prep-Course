@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: 'Times New Roman';
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 90%;
+    margin: auto;
+    background-image: url(https://previews.123rf.com/images/el4anes/el4anes1612/el4anes161200697/69350424-fondo-de-pantalla-con-gatos-patr%C3%B3n-sin-fisuras-de-dibujos-animados.jpg);
+}
+            body {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 90%;
+    margin: auto;
+    background-image: url(https://previews.123rf.com/images/el4anes/el4anes1612/el4anes161200697/69350424-fondo-de-pantalla-con-gatos-patr%C3%B3n-sin-fisuras-de-dibujos-animados.jpg);
+}
+            h1 {
+                color: rgb(244, 21, 140) ;
+            }
+            img {
+                width: 400px;
+                height: 240px;
+            }
+            #thirdDiv { 
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                height: 500px;
+                width: 600px;
+                background-color: gold;
+                padding: 50px;
+                border: 10px groove cyan;
+                margin-left: 100px;
+            }
+            #spanId {
+                font-size: 18px;
+                margin: 50px;
+            }
